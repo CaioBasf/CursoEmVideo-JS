@@ -7,10 +7,17 @@
   font-weight: <weight>;
   font-style: normal;
 } **/
+ 
 body {
     background-color: rgb(107, 29, 29);
 }
 h1{
+    color: white;
     font-family: "JetBrains Mono", system-ui;
     text-align: center;
+}
+div {
+  color: white;
+  font-family: "JetBrains Mono", system-ui;
+  text-align: center;
 }
