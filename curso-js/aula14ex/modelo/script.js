@@ -4,4 +4,4 @@ var passo = document.getElementById('txtpasso')
 
 function verificar() {
     alert(inicio)
-}
+} 
